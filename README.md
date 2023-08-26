@@ -3,7 +3,9 @@ The Kings Version
 
 ## Genesis
 
-### Chapter 1
+### Chapter 1 - Forging Order from the Chaos: 
+
+#### A Tale of Elixir's Version Management and Tool Ascendancy
 
 $^1$ Behold, for it is decreed that every Elixir iteration shall be yoked to an incarnation of OTP/Erlang, akin to harmonious souls in a celestial dance.
 
@@ -53,3 +55,7 @@ $^{6.3}$ Behold, gaze upon the words of [cogini](https://www.cogini.com/blog/usi
 $^{6.4}$ In the annals of wisdom, the script of ***[cogini](https://www.cogini.com/blog/using-asdf-with-elixir-and-phoenix/)*** shines as a guide, illuminating the path to asdf's build dependencies, beware though that time may have left its mark upon some commands.
 
 
+$^7$ Projects adorned with a `.tool-versions` parchment file can summon the required realm of execution by uttering the incantation:
+```
+asdf install
+```
